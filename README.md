@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/VladislavKulenko/First_Project/IMG/malware-code.png)
+![Header](https://raw.githubusercontent.com/VladislavKulenko/First_Project/IMG/Header%203%20(1)%20(1).jpg)
 
 ### Used only:
 ![HTML](https://raw.githubusercontent.com/VladislavKulenko/First_Project/IMG/html.png)
